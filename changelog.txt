@@ -57,3 +57,4 @@ AI-versions: Update changelog 2023-11-24
 AI-versions: Update changelog 2023-11-25
 AI-versions: Update changelog 2023-11-26
 AI-versions: Update changelog 2023-11-27
+AI-versions: Update changelog 2023-11-28
