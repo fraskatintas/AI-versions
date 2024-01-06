@@ -97,3 +97,4 @@ AI-versions: Update changelog 2024-01-03
 AI-versions: Update changelog 2024-01-04
 AI-versions: Update changelog 2024-01-05
 AI-versions: Update changelog 2024-01-06
+AI-versions: Update changelog 2024-01-07
